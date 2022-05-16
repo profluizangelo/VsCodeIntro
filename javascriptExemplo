@@ -1,0 +1,7 @@
+var S1 = "Hellow Word";
+var S2 = "Exemplo programa Javascript no VsCode";
+var Sb = " ";
+
+var xVariable = S1 + Sb + S2;
+alert(xVariable);
+/* git repository origin https://github.com/profluizangelo/VsCodeIntro.git */
