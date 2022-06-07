@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.main{
+    background-color:black;
+    color:#fff;
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    /* principal: ajuste calculadora: fundos, bordas, ajustes, espaçamento entre botões, alinhamento*/
+    margin: auto;
+    /* principal: ajustando calculadora centralizando na visualização do navegador */
+}
+
+.btn{
+    height: auto;
+    width: 40px;
+
+    /* botôes: ajuste de tamanho padronizado*/
+}
