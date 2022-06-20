@@ -11,6 +11,11 @@
         <!-- copiado site https://getbootstrap.com/docs/4.5/getting-started/introduction/ -->
         <link rel="stylesheet" href="style.css"> 
         <!-- formatação css para bordas e espaçamento entre botões, arquivo interno relacionado-->
+        
+        <!-- atualização de trecho de código em 20 de junho de 2022 -->
+        <script type="text/javascript" src="custom.js"></script>
+        
+        <!-- atualização de código chamada arquivo javascript = custom.js -->
     </head>
     <body>
         <div class="container">
